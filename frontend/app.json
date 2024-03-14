@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "The Blind Banker",
+    "slug": "spolecenstvo-tentononcu",
+    "version": "1.0.0",
+    "scheme": "com.spolecenstvo.theblindbanker",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.spolecenstvotentononcu.theblindbanker"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
